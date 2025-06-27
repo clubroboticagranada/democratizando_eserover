@@ -176,7 +176,7 @@
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Se hace necesario presentar una solución a rover lunar o marciano asequibles para centros educativos. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/eserover.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/logotipoeserover2.png&quot; width=&quot;400&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="246"></int>
+                  <int value="256"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.0"></unicode>
+                <unicode value="0_127_2.2"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -219,11 +219,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="eserover.jpg"></string>
+                  <string value="logotipoeserover2.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/eserover.jpg"></string>
+                  <string value="/tmp/tmpgjcLC5.eXe/previews/allyourbase/logotipoeserover2.png"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="a7bf008ede400389c137a9c34a64719f"></string>
+                  <string value="922a5ba7e73ad96a2cb1916c55576f09"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="1"></int>
+           <int value="3"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -383,7 +383,7 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Se basa en un robot oruga con tracción trasera, con dos servomotores de rotación contínua. Todo ello gobernado por una placa micro:bit o microsteamakers, con shield de conexionado y alimentación por bateria li-on en formato pila 9V.&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Se basa en un robot oruga con tracción trasera, con dos servomotores de rotación contínua. Todo ello gobernado por una placa micro:bit o microSTEAMakers, con shield de conexionado y alimentación por bateria li-on en formato pila 9V.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/eserover.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -404,7 +404,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="247"></int>
+                     <int value="254"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -418,7 +418,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.0"></unicode>
+                   <unicode value="1_128_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -429,7 +429,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="eserover.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/eserover.jpg"></string>
+                     <string value="/tmp/tmpPrpIdI/eserover.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a7bf008ede400389c137a9c34a64719f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -458,7 +458,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -616,7 +616,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="12"></reference>
              </dictionary>
             </instance>
            </list>
@@ -666,7 +666,7 @@
          <instance class="exe.engine.node.Node" reference="15">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="libreria"></unicode>
+           <unicode value="Libreria"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
@@ -746,9 +746,9 @@
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Se ha realizado una librería en microblocks para un sencillo control de movimientos del robot.&lt;/p&gt;
-&lt;p&gt;Tiene una orden de configuraciones de pines dónde colocar el motor:&lt;/p&gt;
+&lt;p&gt;Tiene una orden de configuraciones de pines dónde colocar los servomotores, el izquierdo y derecho.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/libreria_01.png&quot; alt=&quot;libreria01&quot; title=&quot;libreria01&quot; width=&quot;325&quot; height=&quot;90&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;y otra orden de definición de movimiento y velocidad:&lt;/p&gt;
+&lt;p&gt;y otra orden de definición de movimiento y velocidad.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/libreria_02.png&quot; alt=&quot;libreria02&quot; title=&quot;libreria02&quot; width=&quot;325&quot; height=&quot;90&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;el parámetro move action tiene cuatro opciones, a saber:&lt;/p&gt;
 &lt;ul&gt;
@@ -757,8 +757,8 @@
 &lt;li&gt;&lt;strong&gt;l&lt;/strong&gt;: left (izquierda).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;r&lt;/strong&gt;: right (derecha).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Se ha de indicar que los giros no son tales, son en realidad pivotajes, que es la rotación del robot sobre si mismo.&lt;/p&gt;
-&lt;p&gt;Además podemos modificar los parámetros de velocidad de cada acción de 0 a 10. Si indicamos en cualquier acción velocidad 0 el robot se para.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Se ha de indicar que los giros no son tales, son en realidad pivotajes, que no es más que la rotación del robot sobre si mismo.&lt;/p&gt;
+&lt;p&gt;Además podemos modificar los parámetros de velocidad de cada acción de 0 a 10. &lt;strong&gt;Si indicamos en cualquier acción velocidad 0 el robot se para&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -778,7 +778,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="238"></int>
+                        <int value="249"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -792,7 +792,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="4_131_2.0"></unicode>
+                      <unicode value="4_131_2.2"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="16">
                        <dictionary>
@@ -803,7 +803,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="libreria_01.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/libreria_01.png"></string>
+                        <string value="/tmp/tmpPrpIdI/libreria_01.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0bc6b2b10feae8f8e9a336e1db8b52a3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -830,7 +830,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="239"></int>
+                        <int value="250"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -844,7 +844,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="4_131_2.1"></unicode>
+                      <unicode value="4_131_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="17">
                        <dictionary>
@@ -855,7 +855,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="libreria_02.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/libreria_02.png"></string>
+                        <string value="/tmp/tmpPrpIdI/libreria_02.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1f9907d49660f1ef9890e140da178240"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -884,7 +884,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="15"></reference>
                 </dictionary>
@@ -929,7 +929,7 @@
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Democratizando%20ESEROver:Software:libreria"></string>
+           <string value="exe-node:Democratizando%20ESEROver:Software:Libreria"></string>
            <string role="key" value="parent"></string>
            <reference key="12"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1021,7 +1021,7 @@
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Se trata de un programa demostración, para comprobar las funcionalidades de movimiento del robot.&lt;/p&gt;
-&lt;p&gt;Para ello desde una placa emisora enviamos una letra por radio a la placa que controla el robot. La letra enviada cambia en función de la inclinación de la placa emisora. La placa receptora recibe la letra y en función de la misma realiza un movimiento.&lt;/p&gt;
+&lt;p&gt;Para ello desde una placa emisora enviamos una letra por radio a la placa que controla el robot. La letra enviada cambia en función de la inclinación de la placa emisora. La placa receptora recibe la letra y en función de la misma realiza un movimiento en el robot.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/video_demo.gif&quot; alt=&quot;&quot; width=&quot;450&quot; height=&quot;252&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Programa emisor:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/programa_emisor.png&quot; alt=&quot;&quot; width=&quot;999&quot; height=&quot;611&quot; /&gt;&lt;/p&gt;
@@ -1047,7 +1047,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="240"></int>
+                        <int value="251"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1061,7 +1061,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="5_132_2.0"></unicode>
+                      <unicode value="5_132_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="21">
                        <dictionary>
@@ -1072,7 +1072,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="programa_emisor.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/programa_emisor.png"></string>
+                        <string value="/tmp/tmpPrpIdI/programa_emisor.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="674190c986c848b7d023d8cca4a38f68"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1099,7 +1099,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="241"></int>
+                        <int value="252"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1113,7 +1113,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="5_132_2.1"></unicode>
+                      <unicode value="5_132_2.4"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1124,7 +1124,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="programa_receptor.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/programa_receptor.png"></string>
+                        <string value="/tmp/tmpPrpIdI/programa_receptor.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4a0e89e76a36cbe821ec8b71c1825246"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1151,7 +1151,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="248"></int>
+                        <int value="255"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1165,7 +1165,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="5_132_2.2"></unicode>
+                      <unicode value="5_132_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="23">
                        <dictionary>
@@ -1176,7 +1176,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="video_demo.gif"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpwgmWv5.eXe/previews/allyourbase/video_demo.gif"></string>
+                        <string value="/tmp/tmpPrpIdI/video_demo.gif"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0a7e01397f4e836781fd702fb9dc9b70"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1205,7 +1205,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="20"></reference>
                 </dictionary>
@@ -1334,7 +1334,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Eserover2M.ubl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/home/pedro/SynologyDrive/robotica/rover/microbit/librerias/Eserover2M.ubl"></string>
+                <string value="/tmp/tmpPrpIdI/Eserover2M.ubl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="c865b1900af019d9258eb12a74c0b59c"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1392,7 +1392,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="rover_emisor.ubp"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/home/pedro/SynologyDrive/robotica/rover/microbit/rover_emisor.ubp"></string>
+                <string value="/tmp/tmpPrpIdI/rover_emisor.ubp"></string>
                 <string role="key" value="checksum"></string>
                 <string value="750a9d9643c233f95c11a0686aeab875"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1450,7 +1450,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="rover_receptor.ubp"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/home/pedro/SynologyDrive/robotica/rover/microbit/rover_receptor.ubp"></string>
+                <string value="/tmp/tmpPrpIdI/rover_receptor.ubp"></string>
                 <string role="key" value="checksum"></string>
                 <string value="9a0f47aa799b229e47f3dbc0a1b182b9"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1509,7 +1509,7 @@
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="29"></reference>
             </dictionary>
            </instance>
            <string role="key" value="lastIdevice"></string>
@@ -2452,13 +2452,16 @@
    <list>
     <reference key="31"></reference>
    </list>
+   <string role="key" value="922a5ba7e73ad96a2cb1916c55576f09"></string>
+   <list>
+    <reference key="5"></reference>
+   </list>
    <string role="key" value="9a0f47aa799b229e47f3dbc0a1b182b9"></string>
    <list>
     <reference key="32"></reference>
    </list>
    <string role="key" value="a7bf008ede400389c137a9c34a64719f"></string>
    <list>
-    <reference key="5"></reference>
     <reference key="9"></reference>
    </list>
    <string role="key" value="c865b1900af019d9258eb12a74c0b59c"></string>
